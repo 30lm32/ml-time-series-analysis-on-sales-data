@@ -1,3 +1,5 @@
+![Image](http://forecastera.com/wp-content/uploads/2016/12/canstockphoto28242944-47.jpg)
+
 ### Forecasting impact of promos (promo1, promo2) on sales in Germany, Austria, and France
 
 |__Problem__|__Data__|__Methods__|__Libs__|__Link__|
